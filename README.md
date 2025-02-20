@@ -5,7 +5,7 @@ This repository contains codes associated with the manuscript titled:
 
 > **"Towards Explainable AI: Interpreting Soil Organic Carbon Prediction Models Using a Learning-Based Explanation Method with Environmental Data."**
 
-Submitted to: *European Journal of Soil Science* (EJSS)
+Accepted for publication in: *European Journal of Soil Science* (EJSS)
 
 
 ![Conformal_Prediction_DSM](./img/XAI.png)
